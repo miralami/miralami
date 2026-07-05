@@ -70,5 +70,5 @@ Features include:
 
 ## 🌐 Connect with me
 
-* 💼 LinkedIn: *(add your LinkedIn here)*
-* 📫 Email: *(your email)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/afifnursena/*
+* 📫 Email: *afifnursena08@gmail.com*
