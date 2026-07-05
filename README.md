@@ -1,6 +1,6 @@
 # Hi, I'm Afif 👋
 
-I'm a Computer Science student at Telkom University who enjoys building software from idea to deployment. Most of my time is spent working on full-stack applications, backend systems, and lately exploring mobile development with React Native.
+I'm a Computer Science (Information Systens specifically) student at Telkom University who enjoys building software from idea to deployment. Most of my time is spent working on full-stack applications, backend systems, and lately exploring mobile development with React Native.
 
 I enjoy projects that solve real problems, whether that's building AI-powered applications, government digital services, or experimenting with new technologies. There's still a lot for me to learn, and that's probably my favorite part of software engineering.
 
