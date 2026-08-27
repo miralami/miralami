@@ -31,7 +31,17 @@ Previously interned at Indonesia's Ministry of PANRB, building internal tools an
 
 ### Stack
 
-Laravel · React · React Native · TypeScript · Next.js · PHP · Python · MySQL · PostgreSQL · Docker
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,ts,python,mysql,postgres,docker,tailwind" />
+</a>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miralami&theme=transparent&hide_border=true&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&sideLabels=64748b&dates=64748b" alt="GitHub Streak" />
+</p>
 
 ---
 
