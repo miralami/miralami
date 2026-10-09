@@ -45,4 +45,4 @@ Previously interned at Indonesia's Ministry of PANRB, building internal tools an
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/afifnursena/) · [Email](mailto:afifnursena08@gmail.com) · Bandung, Indonesia
+[LinkedIn](https://www.linkedin.com/in/afifnursena/) · [Email](mailto:afifnursena08@gmail.com) · Afif, Indonesia
